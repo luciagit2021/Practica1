@@ -1,6 +1,6 @@
 # Practica1
 
-Lucía Fernández González
+se ha realizado de manera individual por Lucía Fernández González
 
 DOI de Zenodo: https://doi.org/10.5281/zenodo.7343586
 
